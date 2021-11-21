@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TMDB Movie App Project</string>
+    <string name="default_title">title</string>
+    <string name="default_img_description">No image</string>
+    <string name="default_date">10/11/2021</string>
+    <string name="search_hint">Search for a film</string>
+    <string name="search">Search</string>
+    <string name="search_icon_desc">Search icon</string>
+    <string name="movie_poster_desc">Film Picture</string>
+    <string name="default_original_title">Original Title</string>
+    <string name="default_overview">Overview</string>
+</resources>

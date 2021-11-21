@@ -1,0 +1,22 @@
+com/example/appmovies/adapter/MyAdapter.java
+ com.example.appmovies.adapter.MyAdapter
+ com.example.appmovies.adapter.MyAdapter$CustomViewHolder
+com/example/appmovies/network/RetrofitClientInstance.java
+ com.example.appmovies.network.RetrofitClientInstance
+com/example/appmovies/BuildConfig.java
+ com.example.appmovies.BuildConfig
+com/example/appmovies/MainActivity.java
+ com.example.appmovies.MainActivity
+ com.example.appmovies.MainActivity$1
+ com.example.appmovies.MainActivity$2
+com/example/appmovies/network/GetDataService.java
+ com.example.appmovies.network.GetDataService
+com/example/appmovies/model/ResultMovieData.java
+ com.example.appmovies.model.ResultMovieData
+com/example/appmovies/MovieDetailsActivity.java
+ com.example.appmovies.MovieDetailsActivity
+ com.example.appmovies.MovieDetailsActivity$1
+com/example/appmovies/util/StringHandler.java
+ com.example.appmovies.util.StringHandler
+com/example/appmovies/model/Movie.java
+ com.example.appmovies.model.Movie
