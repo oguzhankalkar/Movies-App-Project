@@ -1,4 +1,3 @@
 # Movies-App
-movies app for school project
 
-The project for the couse COP4423. 
+A simple Movies App using TMDB API for the course COP4423. 
